@@ -56,8 +56,8 @@ image_files = [
 '7.gif'
 ]
 
-x = 100
-y = 50
+x = 200
+y = 100
 app = App(image_files, x, y, delay)
 app.show_slides()
 app.run()
