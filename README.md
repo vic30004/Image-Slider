@@ -13,6 +13,6 @@ I also used itertools to help iterate over the pictures.
 
 # Running project
 
-In order to run the project, download or clone the the repo and you will need to run the app.py file. Jupyter notebook will not be able to run this project. I used VS Code to run the file but you are welcomed to use anyother IDE. 
+In order to run the project, download or clone the the repo and you will need to run the app.py file. Jupyter notebook will not be able to run this project. I used VS Code to run the file but you are welcomed to use any other IDE. 
 
 
